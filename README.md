@@ -14,36 +14,34 @@ Machine Learning Models: Averages the scores from RandomForest, GradientBoosting
 
 ## Installation
 
-###1. Clone the repository:
+### 1. Clone the repository:
 
 ```bash
 git clone https://github.com/dixon0105/Premium-payment-fraud-detection.git
 ```
 
-###2. Navigate to the project directory:
+### 2. Navigate to the project directory:
 
 ```bash
 cd Premium-payment-fraud-detection
 ```
 
-###3. Install the required dependencies
+### 3. Install the required dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-```
-
 ## Usage
 
-1. Start the API server:
+### 1. Start the API server:
 
 ```bash
 python app_main.py
 ```
 
-2.Send a POST request to the API endpoint with the required parameters
+### 2.Send a POST request to the API endpoint with the required parameters
 
 ```bash
 python testing_API.py
-```"# Premium-payment-fraud-detection" 
+```
